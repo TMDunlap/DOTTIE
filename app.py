@@ -34,8 +34,6 @@ All before sunrise.
 
 ---
 
-She works alongside **AIVA** to build bots, train assistants, connect APIs, and put your business on autopilot — hands-free.
-
 If it needs to run smooth, fast, and hands-free — **DOTTIE is already on it.**
 """)
 
