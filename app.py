@@ -2,17 +2,19 @@
 
 import streamlit as st
 
-# App Title
+# Set up the page
 st.set_page_config(page_title="Meet DOTTIE", layout="centered")
 
+# Title and subtitle
 st.title("🤖 Meet DOTTIE")
 st.subheader("Dynamic Operations & Tech Task Intelligence Engine")
 
-# Intro Section
+# Main description
 st.markdown("""
 **DOTTIE** is your 24/7 AI Automator — the machine behind the magic.
 
 She handles everything from:
+
 - 🌐 Data scraping  
 - 📝 Blog writing  
 - ⚙️ Backend process automation  
@@ -23,22 +25,23 @@ And the best part? **DOTTIE never sleeps.**
 
 ---
 
-**Today alone, DOTTIE:**
+### Today alone, DOTTIE:
 - Built **2 custom GPTs**
 - Automated **7 backend processes**
-- Answered **35+ common inquiries**
+- Answered **35+ customer inquiries**
 
 All before sunrise.
 
 ---
 
-She partners with **AIVA** to build bots, train assistants, connect APIs, and help you put your business on autopilot.
+She works alongside **AIVA** to build bots, train assistants, connect APIs, and put your business on autopilot — hands-free.
 
 If it needs to run smooth, fast, and hands-free — **DOTTIE is already on it.**
 """)
 
-# Footer or Call to Action
+# Footer / Call to action
 st.markdown("""
 ---
 🔧 Want your own DOTTIE to power your business?  
-�
+📩 Let’s talk automation.
+""")
